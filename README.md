@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
 </head>
-<body style="background-color: white;">
+<body>
     <div>
-        <h1>Harsh Thalwal</h1>
+        <h1 style="text-align:center">Harsh Thalwal</h1>
     </div>
 </body>
 </html>
