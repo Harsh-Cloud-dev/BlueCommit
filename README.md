@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
     <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
     <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Made%20with-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   </p>
 </div>
 
@@ -19,4 +20,5 @@
 ## 🔧 About BlueCommit
 
 **BlueCommit** is a local, lightweight version control system inspired by Git — designed for collaboration without internet.  
-It supports basic Git features like `init`, `add`, `commit`, `log`, and `checkout`, plus a Bluetooth-based sync system for offline teamwork.
+It supports basic Git features like `init`, `add`, `commit`, `log`, and `checkout`, plus a Bluetooth-based sync system for offline teamwork.  
+This project is written in both **Python** and **C++**, combining scripting ease with performance capabilities.
